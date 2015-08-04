@@ -218,7 +218,7 @@ var chart = AmCharts.makeChart("customer_bar_diagram", {
 	}
 });
 </script>
-
+<?php /*
 <script>
 var chart = AmCharts.makeChart("selling_types_pie_diagram",{
 	"type"			: "pie",
@@ -272,7 +272,7 @@ var chart = AmCharts.makeChart("selling_types_pie_diagram",{
 	]
 });
 </script>
-
+*/ ?>
 
 <script>
 var chart = AmCharts.makeChart("payment_pie_diagram",{
